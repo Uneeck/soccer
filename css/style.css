@@ -1,0 +1,17 @@
+canvas {
+	background-image: url("http://www.hobart.k12.ok.us/HIGHSCHOOL/hsfaculty/Quintero/GREEN.jpg");
+	background-size: cover;
+}
+
+.container {
+	width: 100px;
+	height: 100px;
+	background-color: #eee;
+	position: absolute;
+	right: 10px;
+	top: 10px;
+}
+
+.ball {
+	display: none;
+}
